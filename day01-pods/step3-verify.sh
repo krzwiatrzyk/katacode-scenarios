@@ -1,1 +1,1 @@
-echo "this is verify"
+echo "done"
